@@ -1,5 +1,4 @@
 [user]
-	email = novikovavs@gmail.com
-	name = nviktorys
-[url "git@gitlab.com:"]
-	insteadOf = https://gitlab.com/
+	email = {user.emai}
+	name = {user.name}
+	password = Telmana35!(!
